@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/eddy-swe](github.com/eddy-swe)
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">Visit Example</a>
 
 - 💬 Ask me about **M.E.R.N Stack**
 
