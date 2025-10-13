@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/eddy-swe](github.com/eddy-swe)
+- 👨‍💻 All of my projects are available at [github](github.com/eddy-swe)
 
 - 💬 Ask me about **M.E.R.N Stack**
 
-- 📫 How to reach me **[E-Mail Me](eddyngeno12@gmail.com)**
+- 📫 How to reach me - **[E-Mail Me](eddyngeno12@gmail.com)**
 
-- 📄 Know about my experiences [Portfolio](https://eddy-swe.github.io/MGX/)
+- 📄 Know about my experiences - [Portfolio](https://eddy-swe.github.io/MGX/)
 
 - ⚡ Fun fact **I like playing football**
 
