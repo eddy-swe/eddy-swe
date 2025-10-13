@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[E-Mail Me!](eddyngeno12@gmail.com)**
 
-- 📄 Know about my experiences [github.com/eddy-swe/resume](https://eddy-swe.github.io/MGX/)
+- 📄 Know about my experiences [Portfolio](https://eddy-swe.github.io/MGX/)
 
 - ⚡ Fun fact **I like playing football**
 
