@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **M.E.R.N Stack**
 
-- 📫 How to reach me **[E-Mail Me!](eddyngeno12@gmail.com)**
+- 📫 How to reach me **[E-Mail Me](eddyngeno12@gmail.com)**
 
 - 📄 Know about my experiences [Portfolio](https://eddy-swe.github.io/MGX/)
 
