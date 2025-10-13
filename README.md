@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **M.E.R.N Stack**
 
-- 📫 How to reach me **eddyngeno12@gmail.com**
+- 📫 How to reach me **[E-Mail Me!](eddyngeno12@gmail.com)**
 
-- 📄 Know about my experiences [github.com/eddy-swe/resume](github.com/eddy-swe/resume)
+- 📄 Know about my experiences [github.com/eddy-swe/resume](https://eddy-swe.github.io/MGX/)
 
 - ⚡ Fun fact **I like playing football**
 
