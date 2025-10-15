@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eddy Ngeno
+# Hi 👋, I'm Eddy
 ### A passionate frontend developer from Kenya
 
 - 🔭 I’m currently working on **EdBank**
