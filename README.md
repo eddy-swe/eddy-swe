@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/eddy-swe)
 - 💬 Ask me about **M.E.R.N Stack**
 - 📫 How to reach me: [E-Mail Me](mailto:eddyngeno12@gmail.com)
-- 📄 Check out my [Portfolio](https://eddy-swe.github.io/MGX/)
+- 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/)
 - ⚡ Fun fact: **I like playing football**
 
 ## Connect with me
