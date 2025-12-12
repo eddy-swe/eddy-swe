@@ -1,10 +1,10 @@
 # Hi 👋, I'm Eddy
-### A passionate frontend developer from Kenya
+### A passionate Software developer based in Kenya
 
-- 🔭 I’m currently working on **EdBank**
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **EdBank - Banking onboarding for customers made easy!**
+- 🌱 I’m currently learning the **M.E.R.N Stack**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/eddy-swe)
-- 💬 Ask me about **M.E.R.N Stack**
+- 💬 Ask me about **The advent of AI in Software Development**
 - 📫 How to reach me: [E-Mail Me](mailto:eddyngeno12@gmail.com)
 - 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/)
 - ⚡ Fun fact: **I like playing football**
