@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eddy
 ### A passionate Software developer
 
-- 🔭 I’m currently working on **EdBank - Banking onboarding for customers made easy!**
+- 🔭 I’m currently working on **EdBank - Banking onboarding made easy!**
 - 🌱 I’m currently learning the **M.E.R.N Stack**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/eddy-swe)
 - 💬 Ask me about **The advent of AI in Software Development**
