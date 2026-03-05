@@ -1,13 +1,13 @@
 # Hi 👋, I'm Eddy
 ### A passionate Software developer
 
-- 🔭 I’m currently working on **EdBank - Banking onboarding made easy!**
+- 🔭 I’m currently working on **EdBank - Banking onboarding for newbies in Banking!**
 - 🌱 I’m currently learning the **M.E.R.N Stack**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/eddy-swe)
-- 💬 Ask me about **The advent of AI in Software Development**
-- 📫 How to reach me: [E-Mail Me](mailto:eddyngeno12@gmail.com)
-- 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/)
-- ⚡ Fun fact: **I like playing football**
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/eddy-swe)
+- 💬 Been thinking about **The advent of AI in Software Development**
+- 📫 Want to reach me? [E-Mail Me](mailto:eddyngeno12@gmail.com)
+- 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/) here!
+- ⚡ Fun fact: **I like playing Football**
 
 ## Connect with me
 
