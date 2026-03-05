@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **EdBank - Banking onboarding for newbies in Banking!**
 - 🌱 I’m currently learning the **M.E.R.N Stack**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/eddy-swe)
-- 💬 Been thinking about **The advent of AI in Software Development**
+- 💬 Been thinking about **The advent of AI in Software Development - in Africa**
 - 📫 Want to reach me? [E-Mail Me](mailto:eddyngeno12@gmail.com)
 - 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/) here!
 - ⚡ Fun fact: **I like playing Football**
