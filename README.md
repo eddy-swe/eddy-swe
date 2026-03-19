@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EdBank - Banking onboarding for new customers made easy!** (EdTech)
 - 🌱 I’m currently learning the **M.E.R.N Stack**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/eddy-swe)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/eddy-swe?tab=repositories)
 - 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/) here!
 - 📫 Want to reach me? [E-Mail Me](mailto:eddyngeno12@gmail.com)
   
