@@ -55,10 +55,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
-<a href=#><img src="https://www.freepik.com/icon/youtube_4494487" height="50" /></a>
-
+<img src="https://giphy.com/gifs/marchmadness-basketball-college-ncaa-tournament-dBocU6xGT7Ei6iR6lS"  />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eddy-swe&show_icons=true&locale=en&layout=compact)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/eddy-swe/github-readme-stats)
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddy-swe&show_icons=true&locale=en)
