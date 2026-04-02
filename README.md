@@ -51,6 +51,6 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eddy-swe&show_icons=true&locale=en&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eddy-swe&show_icons=true&locale=en&layout=compact)
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddy-swe&show_icons=true&locale=en)
