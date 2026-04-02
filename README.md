@@ -7,10 +7,6 @@
 - 📄 Check out my [Portfolio](https://eddy-swe.github.io/portfolio/) here!
 - 📫 Want to reach me? [E-Mail Me](mailto:eddyngeno12@gmail.com)
   
-## Connect with me
-
-[LinkedIn](#) | [Twitter](#) | [Instagram](#) | [WhatsApp](#) | [Telegram](#)
-
 ## Tech Stack
 <p align="left">
     <!-- Python -->
@@ -49,6 +45,9 @@
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  -->
 </p>
 
+## Connect with me
+
+[LinkedIn](#) | [Twitter](#) | [Instagram](#) | [WhatsApp](#) | [Telegram](#)
 ## GitHub Stats
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eddy-swe&show_icons=true&locale=en&layout=compact)
