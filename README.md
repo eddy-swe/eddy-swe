@@ -1,4 +1,6 @@
-# Hi 👋, I'm Eddy
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=48&pause=1000&color=69FF2576&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eddy)](https://git.io/typing-svg)
+
+<!-- # Hi 👋, I'm Eddy -->
 ### A passionate Software developer | Full Stack
 
 - 🔭 I’m currently working on **EdBank - Banking onboarding for new customers made easy!** (EdTech)
