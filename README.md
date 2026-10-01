@@ -28,7 +28,7 @@
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 
-## Connect with me
+<!--## Connect with me
 
 [LinkedIn](#) | [Twitter](#) | [Instagram](#) | [WhatsApp](#) | [Telegram](#)
 
