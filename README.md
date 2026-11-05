@@ -10,7 +10,7 @@
 - 📫 Want to reach out? [E-Mail Me](mailto:eddyngeno12@gmail.com)
 - 🌱 Open to **work, learn and collaborate**.
 
-
+### Stack:
 <hr>
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
